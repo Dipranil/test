@@ -12,7 +12,7 @@ $row01=mysql_fetch_array($query01);
 ?>
 <html>
 <head>
-<title>PLANT NURSERY</title>
+<title>PLANT Shop</title>
 <link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
 <!-- jQuery (necessary JavaScript plugins) -->
 <script type='text/javascript' src="js/jquery-1.11.1.min.js"></script>
